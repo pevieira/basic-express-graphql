@@ -1,0 +1,13 @@
+{
+  "name": "basic-express-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pevieira/basic-express-graphql.git",
+  "author": "Pedro <psivero@rollins.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0"
+  }
+}
